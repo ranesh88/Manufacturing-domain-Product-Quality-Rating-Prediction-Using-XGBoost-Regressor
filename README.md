@@ -1,0 +1,2 @@
+# Manufacturing-domain-Product-Quality-Rating-Prediction-Using-XGBoost-Regressor
+Manufacturing is one of the main application of Data Science. It helps to optimize processes, predicts maintenance needs, and enhances product quality through advanced analytics and machine learning. It utilizes data to drive efficiency, quality, and innovation in production, supply chain management, and decision-making.
